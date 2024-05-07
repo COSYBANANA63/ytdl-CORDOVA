@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="https://github.com/COSYBANANA63/COSYBANANA63/tree/main">
+    <name>Ytdl</name>
+    <description>Download Youtube Videos At High Format xp</description>
+    <author email="tobyfemi55@gmail.com" href="">
+        KariosStudios
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
